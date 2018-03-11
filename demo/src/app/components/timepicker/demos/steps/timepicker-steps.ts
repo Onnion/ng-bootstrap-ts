@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbTimeStruct} from '@ng-bootstrap/ng-bootstrap';
+import {NgbTimeStruct} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 @Component({
   selector: 'ngbd-timepicker-steps',

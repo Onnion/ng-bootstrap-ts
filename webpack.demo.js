@@ -70,7 +70,7 @@ module.exports = function makeWebpackConfig() {
     extensions: ['.ts', '.js', '.css', '.scss', '.html'],
 
     alias: {
-      '@ng-bootstrap/ng-bootstrap': root('src/index.ts')
+      '@ng-bootstrap-ts/ng-bootstrap-ts': root('src/index.ts')
     }
   };
 

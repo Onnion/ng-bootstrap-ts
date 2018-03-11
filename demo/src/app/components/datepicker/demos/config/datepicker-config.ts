@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbDatepickerConfig, NgbDateStruct} from '@ng-bootstrap/ng-bootstrap';
+import {NgbDatepickerConfig, NgbDateStruct} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 @Component({
   selector: 'ngbd-datepicker-config',

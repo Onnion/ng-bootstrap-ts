@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbTabChangeEvent} from '@ng-bootstrap/ng-bootstrap';
+import {NgbTabChangeEvent} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 @Component({
   selector: 'ngbd-tabset-preventchange',

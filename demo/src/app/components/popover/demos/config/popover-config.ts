@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbPopoverConfig} from '@ng-bootstrap/ng-bootstrap';
+import {NgbPopoverConfig} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 @Component({
   selector: 'ngbd-popover-config',

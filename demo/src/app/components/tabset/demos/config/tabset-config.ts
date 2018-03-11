@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbTabsetConfig} from '@ng-bootstrap/ng-bootstrap';
+import {NgbTabsetConfig} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 @Component({
   selector: 'ngbd-tabset-config',

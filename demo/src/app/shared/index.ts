@@ -4,7 +4,7 @@ import {RouterModule} from '@angular/router';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import {NgbModule} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 import {ComponentWrapper} from './component-wrapper/component-wrapper.component';
 import {PageWrapper} from './page-wrapper/page-wrapper.component';

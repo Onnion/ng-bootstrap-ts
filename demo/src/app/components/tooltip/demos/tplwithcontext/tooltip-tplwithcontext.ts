@@ -1,4 +1,4 @@
-import {NgbTooltip} from '@ng-bootstrap/ng-bootstrap';
+import {NgbTooltip} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 import {Component, ViewChild} from '@angular/core';
 
 @Component({

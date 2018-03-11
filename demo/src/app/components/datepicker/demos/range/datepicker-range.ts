@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbDateStruct, NgbCalendar} from '@ng-bootstrap/ng-bootstrap';
+import {NgbDateStruct, NgbCalendar} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 const equals = (one: NgbDateStruct, two: NgbDateStruct) =>
   one && two && two.year === one.year && two.month === one.month && two.day === one.day;

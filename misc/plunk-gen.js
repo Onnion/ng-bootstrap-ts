@@ -25,7 +25,7 @@ import { Component, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgbModule } from '@ng-bootstrap-ts/ng-bootstrap-ts';
 import { ${demoImports} } from '${demoImport}';
 
 @Component({
@@ -154,7 +154,7 @@ function generateConfigJs() {
     'tslib': 'npm:tslib/tslib.js',
     'typescript': 'npm:typescript@${versions.typescript}/lib/typescript.js',
 
-    '@ng-bootstrap/ng-bootstrap': 'npm:@ng-bootstrap/ng-bootstrap@${versions.ngBootstrap}/bundles/ng-bootstrap.js'
+    '@ng-bootstrap-ts/ng-bootstrap-ts': 'npm:@ng-bootstrap-ts/ng-bootstrap-ts@${versions.ngBootstrap}/bundles/ng-bootstrap.js'
   },
   packages: {
     app: {

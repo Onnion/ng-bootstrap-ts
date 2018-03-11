@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
-import {NgbTimepickerConfig} from '@ng-bootstrap/ng-bootstrap';
-import {NgbTimeStruct} from '@ng-bootstrap/ng-bootstrap';
+import {NgbTimepickerConfig} from '@ng-bootstrap-ts/ng-bootstrap-ts';
+import {NgbTimeStruct} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 @Component({
   selector: 'ngbd-timepicker-config',

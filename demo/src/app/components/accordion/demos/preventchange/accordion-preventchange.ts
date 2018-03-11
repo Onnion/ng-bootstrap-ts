@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbPanelChangeEvent} from '@ng-bootstrap/ng-bootstrap';
+import {NgbPanelChangeEvent} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 @Component({
   selector: 'ngbd-accordion-preventchange',

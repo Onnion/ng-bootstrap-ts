@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NgbDateStruct} from '@ng-bootstrap/ng-bootstrap';
+import {NgbDateStruct} from '@ng-bootstrap-ts/ng-bootstrap-ts';
 
 const now = new Date();
 
