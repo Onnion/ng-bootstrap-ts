@@ -1,6 +1,6 @@
 {
-  "name": "ng-bootstrap",
-  "version": "1.0.1",
+  "name": "ng-bootstrap-ts",
+  "version": "1.0.0",
   "description": "Angular powered Bootstrap",
   "keywords": [
     "angular",
